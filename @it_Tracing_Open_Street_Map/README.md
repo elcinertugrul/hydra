@@ -1,5 +1,5 @@
 ### Description 
-@it_OSM components for tracing 2D and 3D data into GH/Rhino. Set Rhino units as meter prior to run RH.
+@it_OSM components for tracing 2D and 3D data into GH/Rhino. Set Rhino units as meter prior to run GH.
 
 This file has been submitted by [elcinertugrul](https://github.com/elcinertugrul)
 
